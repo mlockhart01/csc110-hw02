@@ -87,7 +87,7 @@ You need to do the following:
   8. Then `multadd result: ` followed by the value inside the value of ab_multadd;
   9. Finally, it should print a row of 16 equal signs (`=`) equal to the example shown below
 
-Example: if the inputs of `a`, `b`, and `ab_multadd` are 10, 15, and 6.0, respectively, then the result of the print_fancy function should be the pringing of this:
+Example: if the inputs of `a`, `b`, and `ab_multadd` are 10, 15, and 6.0, respectively, then the result of the print_fancy function should be the printing of this:
 
 ```
 ****************
@@ -97,12 +97,6 @@ second number: 15
 multadd result: 6.0
 ================
 ```
-
-### Part 3.2: call the function
-
-Add a call to  `print_fancy` where indicated, inside `main()`
-
-The call should invoke print_fancy with three arguments (`x`, `y`, and `xy_multadd`, which you defined as output of the compute_multadd call). This call has no output.
 
 
 
