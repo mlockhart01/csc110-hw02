@@ -40,7 +40,7 @@ def print_fancy(a, b, ab_multadd):
     
     print("*" * 16)
     print("RESULTS:")
-    print("First number:", a)
+    print("first number:", a)
     print("second number:", b)
     print("multadd result:", ab_multadd)
     print("=" * 16)
